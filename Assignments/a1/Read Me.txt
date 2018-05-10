@@ -1,0 +1,22 @@
+---------------------READ ME---------------------
+
+How to run SmartClient.py? 
+
+	- Open a terminal/console, navigate to the folder containing SmartClient.py using cd home/path/.../correct_folder/
+	- Type something like "python3 SmartClient.py www.hello-world.ca" in the command line
+
+---------------------
+
+Which version of Python did I use?
+
+	- I used both "python Sma..." and "python3 Sma..." to run my program. No issues.
+	- However, the version installed on the lab computers is Python 3.4.3.
+
+---------------------
+
+Who did I get help from?
+
+	- I read the lecture and lab slides
+	- Discussed ideas and strategies with my peers
+
+---------------------

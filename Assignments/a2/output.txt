@@ -1,0 +1,375 @@
+
+---------------Connection # 1---------------
+Connection State:  S 0 F 2 
+Connection is not complete
+
+---------------Connection # 2---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:12:24.999340
+End time:  2006-02-06 20:12:25.010121
+Duration:  0.010781049728393555 s
+Packets sent from:  142.104.105.208:80  to  1203:1203:5
+Packets sent from:  192.168.1.164:1203  to  80:80:4
+Total number of packets:  9
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1203:1134
+Data bytes sent from:  192.168.1.164:1203  to  142.104.105.208:80:359
+Total number of data bytes:  1493
+
+---------------Connection # 3---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:12:25.011699
+End time:  2006-02-06 20:12:25.023375
+Duration:  0.01167607307434082 s
+Packets sent from:  142.104.105.208:80  to  1204:1204:6
+Packets sent from:  192.168.1.164:1204  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1204:2295
+Data bytes sent from:  192.168.1.164:1204  to  142.104.105.208:80:367
+Total number of data bytes:  2662
+
+---------------Connection # 4---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:12:25.047253
+End time:  2006-02-06 20:12:25.054828
+Duration:  0.007575035095214844 s
+Packets sent from:  142.104.105.208:80  to  1205:1205:6
+Packets sent from:  192.168.1.164:1205  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1205:4655
+Data bytes sent from:  192.168.1.164:1205  to  142.104.105.208:80:366
+Total number of data bytes:  5021
+
+---------------Connection # 5---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:12:25.071083
+End time:  2006-02-06 20:12:25.085299
+Duration:  0.014215946197509766 s
+Packets sent from:  142.104.105.208:80  to  1206:1206:6
+Packets sent from:  192.168.1.164:1206  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1206:1826
+Data bytes sent from:  192.168.1.164:1206  to  142.104.105.208:80:365
+Total number of data bytes:  2191
+
+---------------Connection # 6---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 7---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:12:25.122321
+End time:  2006-02-06 20:12:25.132679
+Duration:  0.010358095169067383 s
+Packets sent from:  142.104.105.208:80  to  1208:1208:6
+Packets sent from:  192.168.1.164:1208  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1208:4656
+Data bytes sent from:  192.168.1.164:1208  to  142.104.105.208:80:375
+Total number of data bytes:  5031
+
+---------------Connection # 8---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 9---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 10---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:12:37.141913
+End time:  2006-02-06 20:12:37.623060
+Duration:  0.48114705085754395 s
+Packets sent from:  142.104.105.208:80  to  1211:1211:21
+Packets sent from:  192.168.1.164:1211  to  80:80:13
+Total number of packets:  34
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1211:21542
+Data bytes sent from:  192.168.1.164:1211  to  142.104.105.208:80:846
+Total number of data bytes:  22388
+
+---------------Connection # 11---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:12:37.518871
+End time:  2006-02-06 20:12:37.623576
+Duration:  0.1047048568725586 s
+Packets sent from:  142.104.105.208:80  to  1212:1212:5
+Packets sent from:  192.168.1.164:1212  to  80:80:4
+Total number of packets:  9
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1212:1130
+Data bytes sent from:  192.168.1.164:1212  to  142.104.105.208:80:411
+Total number of data bytes:  1541
+
+---------------Connection # 12---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:12:37.623353
+End time:  2006-02-06 20:12:37.716676
+Duration:  0.0933229923248291 s
+Packets sent from:  142.104.105.208:80  to  1213:1213:6
+Packets sent from:  192.168.1.164:1213  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1213:2295
+Data bytes sent from:  192.168.1.164:1213  to  142.104.105.208:80:421
+Total number of data bytes:  2716
+
+---------------Connection # 13---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:12:37.624155
+End time:  2006-02-06 20:12:37.683413
+Duration:  0.05925798416137695 s
+Packets sent from:  142.104.105.208:80  to  1214:1214:6
+Packets sent from:  192.168.1.164:1214  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1214:4655
+Data bytes sent from:  192.168.1.164:1214  to  142.104.105.208:80:420
+Total number of data bytes:  5075
+
+---------------Connection # 14---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:12:37.716999
+End time:  2006-02-06 20:12:37.830405
+Duration:  0.11340594291687012 s
+Packets sent from:  142.104.105.208:80  to  1215:1215:6
+Packets sent from:  192.168.1.164:1215  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.105.208:80  to  192.168.1.164:1215:1826
+Data bytes sent from:  192.168.1.164:1215  to  142.104.105.208:80:419
+Total number of data bytes:  2245
+
+---------------Connection # 15---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 16---------------
+Connection State:  S 0 F 0 
+Connection is not complete
+
+---------------Connection # 17---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:14:09.788660
+End time:  2006-02-06 20:14:09.863674
+Duration:  0.07501387596130371 s
+Packets sent from:  142.104.100.111:80  to  1217:1217:8
+Packets sent from:  192.168.1.164:1217  to  80:80:5
+Total number of packets:  13
+Data bytes sent from:  142.104.100.111:80  to  192.168.1.164:1217:4027
+Data bytes sent from:  192.168.1.164:1217  to  142.104.100.111:80:654
+Total number of data bytes:  4681
+
+---------------Connection # 18---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:14:09.955746
+End time:  2006-02-06 20:14:10.002425
+Duration:  0.046679019927978516 s
+Packets sent from:  142.104.100.111:80  to  1218:1218:6
+Packets sent from:  192.168.1.164:1218  to  80:80:4
+Total number of packets:  10
+Data bytes sent from:  142.104.100.111:80  to  192.168.1.164:1218:2969
+Data bytes sent from:  192.168.1.164:1218  to  142.104.100.111:80:366
+Total number of data bytes:  3335
+
+---------------Connection # 19---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 20---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 21---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:14:30.015758
+End time:  2006-02-06 20:14:34.484163
+Duration:  4.46840500831604 s
+Packets sent from:  142.104.100.111:80  to  1221:1221:29
+Packets sent from:  192.168.1.164:1221  to  80:80:17
+Total number of packets:  46
+Data bytes sent from:  142.104.100.111:80  to  192.168.1.164:1221:33703
+Data bytes sent from:  192.168.1.164:1221  to  142.104.100.111:80:532
+Total number of data bytes:  34235
+
+---------------Connection # 22---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 23---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 24---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 25---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:14:39.501491
+End time:  2006-02-06 20:14:55.325749
+Duration:  15.824257850646973 s
+Packets sent from:  142.104.100.111:80  to  1225:1225:157
+Packets sent from:  192.168.1.164:1225  to  80:80:81
+Total number of packets:  238
+Data bytes sent from:  142.104.100.111:80  to  192.168.1.164:1225:222173
+Data bytes sent from:  192.168.1.164:1225  to  142.104.100.111:80:407
+Total number of data bytes:  222580
+
+---------------Connection # 26---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:14:51.429585
+End time:  2006-02-06 20:14:51.487467
+Duration:  0.057882070541381836 s
+Packets sent from:  142.104.100.1:53  to  1226:1226:4
+Packets sent from:  192.168.1.164:1226  to  53:53:4
+Total number of packets:  8
+Data bytes sent from:  142.104.100.1:53  to  192.168.1.164:1226:733
+Data bytes sent from:  192.168.1.164:1226  to  142.104.100.1:53:35
+Total number of data bytes:  768
+
+---------------Connection # 27---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:14:51.488402
+End time:  2006-02-06 20:14:51.576197
+Duration:  0.08779501914978027 s
+Packets sent from:  207.202.158.14:80  to  1227:1227:5
+Packets sent from:  192.168.1.164:1227  to  80:80:4
+Total number of packets:  9
+Data bytes sent from:  207.202.158.14:80  to  192.168.1.164:1227:301
+Data bytes sent from:  192.168.1.164:1227  to  207.202.158.14:80:433
+Total number of data bytes:  734
+
+---------------Connection # 28---------------
+Connection State:  S 2 F 0 
+Connection is not complete
+
+---------------Connection # 29---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:14:52.796275
+End time:  2006-02-06 20:14:55.576185
+Duration:  2.779910087585449 s
+Packets sent from:  207.202.158.16:80  to  1229:1229:5
+Packets sent from:  192.168.1.164:1229  to  80:80:4
+Total number of packets:  9
+Data bytes sent from:  207.202.158.16:80  to  192.168.1.164:1229:351
+Data bytes sent from:  192.168.1.164:1229  to  207.202.158.16:80:394
+Total number of data bytes:  745
+
+---------------Connection # 30---------------
+Connection State:  S 1 F 2 
+Connection complete
+Start time:  2006-02-06 20:14:55.658402
+End time:  2006-02-06 20:14:57.477486
+Duration:  1.8190839290618896 s
+Packets sent from:  207.202.158.16:80  to  1230:1230:5
+Packets sent from:  192.168.1.164:1230  to  80:80:4
+Total number of packets:  9
+Data bytes sent from:  207.202.158.16:80  to  192.168.1.164:1230:351
+Data bytes sent from:  192.168.1.164:1230  to  207.202.158.16:80:421
+Total number of data bytes:  772
+
+---------------Connection # 31---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:15:02.831100
+End time:  2006-02-06 20:15:02.954847
+Duration:  0.12374711036682129 s
+Packets sent from:  169.229.60.105:80  to  1231:1231:11
+Packets sent from:  192.168.1.164:1231  to  80:80:5
+Total number of packets:  16
+Data bytes sent from:  169.229.60.105:80  to  192.168.1.164:1231:9938
+Data bytes sent from:  192.168.1.164:1231  to  169.229.60.105:80:454
+Total number of data bytes:  10392
+
+---------------Connection # 32---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 33---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:15:03.358432
+End time:  2006-02-06 20:15:15.456882
+Duration:  12.098449945449829 s
+Packets sent from:  169.229.60.105:80  to  1233:1233:35
+Packets sent from:  192.168.1.164:1233  to  80:80:21
+Total number of packets:  56
+Data bytes sent from:  169.229.60.105:80  to  192.168.1.164:1233:34216
+Data bytes sent from:  192.168.1.164:1233  to  169.229.60.105:80:310
+Total number of data bytes:  34526
+
+---------------Connection # 34---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:15:12.156907
+End time:  2006-02-06 20:15:35.396668
+Duration:  23.239760875701904 s
+Packets sent from:  142.104.100.111:80  to  1234:1234:15
+Packets sent from:  192.168.1.164:1234  to  80:80:14
+Total number of packets:  29
+Data bytes sent from:  142.104.100.111:80  to  192.168.1.164:1234:7437
+Data bytes sent from:  192.168.1.164:1234  to  142.104.100.111:80:2218
+Total number of data bytes:  9655
+
+---------------Connection # 35---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:15:12.239377
+End time:  2006-02-06 20:15:35.426608
+Duration:  23.187231063842773 s
+Packets sent from:  142.104.100.111:80  to  1235:1235:104
+Packets sent from:  192.168.1.164:1235  to  80:80:59
+Total number of packets:  163
+Data bytes sent from:  142.104.100.111:80  to  192.168.1.164:1235:137084
+Data bytes sent from:  192.168.1.164:1235  to  142.104.100.111:80:1832
+Total number of data bytes:  138916
+
+---------------Connection # 36---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 37---------------
+Connection State:  S 1 F 1 
+Connection complete
+Start time:  2006-02-06 20:15:25.072060
+End time:  2006-02-06 20:15:44.678169
+Duration:  19.606108903884888 s
+Packets sent from:  209.198.98.149:80  to  1237:1237:51
+Packets sent from:  192.168.1.164:1237  to  80:80:29
+Total number of packets:  80
+Data bytes sent from:  209.198.98.149:80  to  192.168.1.164:1237:32424
+Data bytes sent from:  192.168.1.164:1237  to  209.198.98.149:80:3475
+Total number of data bytes:  35899
+
+---------------Connection # 38---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 39---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+---------------Connection # 40---------------
+Connection State:  S 1 F 0 
+Connection is not complete
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Total number of connections:  40
+Number of complete connections:  False
+Number of reset connections:  34
+Number of connections still open:  40
+Min time open for complete connection:  0.007575035095214844
